@@ -22,11 +22,11 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](cp1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](cp2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
