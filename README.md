@@ -38,7 +38,7 @@ fill-in-your-answer
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](cp5.png?raw=true)
 
 ### Checkpoint 6 (4 points)
 
