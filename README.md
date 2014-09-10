@@ -30,7 +30,7 @@ fill-in-your-answer
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](cp3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
