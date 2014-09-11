@@ -10,7 +10,7 @@ Justin McBride
 
 # How many hours have you spent on this?
 
-Around 3.5 hours
+Around 2.5 hours
 
 # Show and tell (4 points)
 
