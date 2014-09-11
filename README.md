@@ -120,7 +120,7 @@ sourcetype=course_github_events type=PushEvent | stats count by actor.login
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=course_github_events | timechart count by type
 ```
 ![image](screenshots/splunk-challenge2b.png?raw=true)
 
