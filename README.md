@@ -111,34 +111,37 @@ sourcetype="dare599z_event" | timechart count by type
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+```
+sourcetype=github_class | stats count by actor.login
+```
+![image](splunk/ch2a.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=github_class | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](splunk/ch2b.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=github_class type=PullRequestEvent | top actor.login
 ```
-![image](image.png?raw=true)
+![image](splunk/ch2c.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=github_class type=PullRequestEvent | top payload.action
 ```
-![image](image.png?raw=true)
+![image](splunk/ch2d.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=github_class type=PullRequestEvent | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](splunk/ch2e.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=github_class type=PullRequestEvent repo.name="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
-![image](image.png?raw=true)
+![image](splunk/ch2f.png?raw=true)
