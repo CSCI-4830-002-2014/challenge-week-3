@@ -85,60 +85,58 @@ Wednesday 10:25pm - 12:55am: 2 h 30 min
 ## Challenge 1
 
 ### Challenge 1-a (4 points)
-```
-sourcetype=access_* [fill-in-the-rest]
-```
-![image](image.png?raw=true)
+Use `created_at` as the timestamp field.
+![image](screenshots/splunk-challenge1a.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge1b.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge1c.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge1d.png?raw=true)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge2a.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge2b.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge2c.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge2d.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge2e.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
 sourcetype=access_* [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](screenshots/splunk-challenge2f.png?raw=true)
