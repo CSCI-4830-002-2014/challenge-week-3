@@ -86,25 +86,25 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
@@ -115,30 +115,30 @@ sourcetype=[??] [fill-in-the-rest]
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=access_* [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
