@@ -108,7 +108,14 @@ sourcetype=nfejes_events | timechart count by type
 
 ## Challenge 2
 
+**Note**: To be able to parse all `created_at` fields I had to add `TRUNCATE=0` to the
+*Additional settings (overrides)* under the *Advanced mode (props.conf)* tab when setting
+up the data source.
+
 ### Challenge 2-a (4 points)
+```
+sourcetype=course_github_events type=PushEvent | stats count by actor.login
+```
 ![image](screenshots/splunk-challenge2a.png?raw=true)
 
 ### Challenge 2-b (4 points)
