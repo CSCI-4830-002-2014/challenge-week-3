@@ -4,13 +4,14 @@ Niklas Fejes
 
 # How many points have you earned?
 
-60/100
+100/100
 
 # How many hours have you spent on this?
 
 fill-in-your-answer
 Note to self:
 Wednesday 10:25pm - 12:55am: 2 h 30 min
+Thursday  8 pm - 11 pm: 3 h
 
 # Show and tell (4 points)
 
@@ -126,24 +127,26 @@ sourcetype=course_github_events | timechart count by type
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | top actor.login
 ```
 ![image](screenshots/splunk-challenge2c.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | stats count by payload.action
 ```
 ![image](screenshots/splunk-challenge2d.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent payload.action=opened | stats count by actor.login
 ```
 ![image](screenshots/splunk-challenge2e.png?raw=true)
 
 ### Challenge 2-f (4 points)
+**Note**: This graph is quite different from the one displayed in the challenge description since I am
+not using the truncated data.
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent repo.name=*/challenge-week-2 | timechart count
 ```
 ![image](screenshots/splunk-challenge2f.png?raw=true)
