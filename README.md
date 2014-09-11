@@ -8,14 +8,11 @@ Niklas Fejes
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
-Note to self:
-Wednesday 10:25pm - 12:55am: 2 h 30 min
-Thursday  8 pm - 11 pm: 3 h
+about 6-7 hours
 
 # Show and tell (4 points)
 
-[The United States Congress](http://xkcd.com/1127/)
+[xkcd.com - The United States Congress](http://xkcd.com/1127/)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -111,7 +108,8 @@ sourcetype=nfejes_events | timechart count by type
 
 **Note**: To be able to parse all `created_at` fields I had to add `TRUNCATE=0` to the
 *Additional settings (overrides)* under the *Advanced mode (props.conf)* tab when setting
-up the data source.
+up the data source. This makes some of the graphs quite different from the ones displayed 
+in the challenge description.
 
 ### Challenge 2-a (4 points)
 ```
@@ -144,8 +142,6 @@ sourcetype=course_github_events type=PullRequestEvent payload.action=opened | st
 ![image](screenshots/splunk-challenge2e.png?raw=true)
 
 ### Challenge 2-f (4 points)
-**Note**: This graph is quite different from the one displayed in the challenge description since I am
-not using the truncated data.
 ```
 sourcetype=course_github_events type=PullRequestEvent repo.name=*/challenge-week-2 | timechart count
 ```
