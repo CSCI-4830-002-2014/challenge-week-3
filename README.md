@@ -86,27 +86,27 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+No search needed here
 ```
-![image](image.png?raw=true)
+![image](splunk/ch1a.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=dare599z_event
 ```
-![image](image.png?raw=true)
+![image](splunk/ch1b.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="dare599z_event" | stats count by type
 ```
-![image](image.png?raw=true)
+![image](splunk/ch1c.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="dare599z_event" | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](splunk/ch1d.png?raw=true)
 
 ## Challenge 2
 
