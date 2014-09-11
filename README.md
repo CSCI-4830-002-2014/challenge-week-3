@@ -10,11 +10,11 @@ Justin McBride
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+Around 3.5 hours
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[Localizing the NYT Data Visualization on Race Gap for Police in NC](http://www.pbs.org/idealab/2014/09/localizing-the-nyt-data-visualization-on-race-gap-for-police-in-nc/)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -88,25 +88,25 @@ fill-in-your-answer
 ```
 No search needed here
 ```
-![image](splunk/ch1a.png?raw=true)
+![image](images/splunk/ch1a.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
 sourcetype=dare599z_event
 ```
-![image](splunk/ch1b.png?raw=true)
+![image](images/splunk/ch1b.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
 sourcetype="dare599z_event" | stats count by type
 ```
-![image](splunk/ch1c.png?raw=true)
+![image](images/splunk/ch1c.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
 sourcetype="dare599z_event" | timechart count by type
 ```
-![image](splunk/ch1d.png?raw=true)
+![image](images/splunk/ch1d.png?raw=true)
 
 ## Challenge 2
 
@@ -114,34 +114,34 @@ sourcetype="dare599z_event" | timechart count by type
 ```
 sourcetype=github_class | stats count by actor.login
 ```
-![image](splunk/ch2a.png?raw=true)
+![image](images/splunk/ch2a.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
 sourcetype=github_class | timechart count by type
 ```
-![image](splunk/ch2b.png?raw=true)
+![image](images/splunk/ch2b.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
 sourcetype=github_class type=PullRequestEvent | top actor.login
 ```
-![image](splunk/ch2c.png?raw=true)
+![image](images/splunk/ch2c.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
 sourcetype=github_class type=PullRequestEvent | top payload.action
 ```
-![image](splunk/ch2d.png?raw=true)
+![image](images/splunk/ch2d.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
 sourcetype=github_class type=PullRequestEvent | stats count by actor.login
 ```
-![image](splunk/ch2e.png?raw=true)
+![image](images/splunk/ch2e.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
 sourcetype=github_class type=PullRequestEvent repo.name="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
-![image](splunk/ch2f.png?raw=true)
+![image](images/splunk/ch2f.png?raw=true)
