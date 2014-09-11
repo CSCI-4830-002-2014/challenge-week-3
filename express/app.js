@@ -3,20 +3,27 @@ var app = express();
 
 var hbs = require('hbs');
 
+var blogEngine = require('./blog');
 
 app.set('view engine', 'html');
 app.engine('html', hbs.__express);
+app.use(express.bodyParser());
 
 app.get('/', function(req, res) {
-    res.render('./views/index.html');
+    res.render('index', {title:"My Blog", entries:blogEngine.getBlogEntries()});
 });
  
 app.get('/about', function(req, res) {
-    res.render('./views/about.html');
+    res.render('about', {title:"About me"});
 });
  
 app.get('/contact', function(req, res) {
-    res.render('./views/contact.html');
+    res.render('contact');
 });
+
+app.get('/article/:id', function(req, res) {
+	var entry = blogEngine.getBlogEntry(req.params.id);
+	res.render('article',{title:entry.title, blog:entry});
+})
  
 app.listen(3000);

@@ -56,27 +56,27 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](images/ch1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](images/ch2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](images/ch3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](images/ch4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](images/ch5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](images/ch6.png?raw=true)
 
 
 
