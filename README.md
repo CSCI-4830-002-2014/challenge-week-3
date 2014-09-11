@@ -1,21 +1,20 @@
 # Name
 
-write-your-name
+Niklas Fejes
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+60/100
 
 # How many hours have you spent on this?
 
 fill-in-your-answer
-Note to self: Started Wednesday 10:25 pm.
+Note to self:
+Wednesday 10:25pm - 12:55am: 2 h 30 min
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[The United States Congress](http://xkcd.com/1127/)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -57,27 +56,27 @@ Note to self: Started Wednesday 10:25 pm.
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/api-challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/api-challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/api-challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/api-challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/api-challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/api-challenge6.png?raw=true)
 
 
 
