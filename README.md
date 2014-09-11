@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alex Tsankov
 
 # How many points have you earned?
 
