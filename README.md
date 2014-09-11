@@ -90,19 +90,19 @@ Use `created_at` as the timestamp field.
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=nfejes_events
 ```
 ![image](screenshots/splunk-challenge1b.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=nfejes_events | stats count by type
 ```
 ![image](screenshots/splunk-challenge1c.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=nfejes_events | timechart count by type
 ```
 ![image](screenshots/splunk-challenge1d.png?raw=true)
 
