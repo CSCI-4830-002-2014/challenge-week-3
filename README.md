@@ -11,6 +11,7 @@ write-your-name
 # How many hours have you spent on this?
 
 fill-in-your-answer
+Note to self: Started Wednesday 10:25 pm.
 
 # Show and tell (4 points)
 
@@ -22,35 +23,35 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint4.png?raw=true)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint5.png?raw=true)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint6.png?raw=true)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint7.png?raw=true)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint8.png?raw=true)
 
 ## Challenges
 
