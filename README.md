@@ -23,35 +23,35 @@ Note to self: Started Wednesday 10:25 pm.
 
 ### Checkpoint 1 (4 points)
 
-![image](checkpoint1.png?raw=true)
+![image](screenshots/checkpoint1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![image](checkpoint2.png?raw=true)
+![image](screenshots/checkpoint2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
-![image](checkpoint3.png?raw=true)
+![image](screenshots/checkpoint3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
-![image](checkpoint4.png?raw=true)
+![image](screenshots/checkpoint4.png?raw=true)
 
 ### Checkpoint 5 (4 points)
 
-![image](checkpoint5.png?raw=true)
+![image](screenshots/checkpoint5.png?raw=true)
 
 ### Checkpoint 6 (4 points)
 
-![image](checkpoint6.png?raw=true)
+![image](screenshots/checkpoint6.png?raw=true)
 
 ### Checkpoint 7 (4 points)
 
-![image](checkpoint7.png?raw=true)
+![image](screenshots/checkpoint7.png?raw=true)
 
 ### Checkpoint 8 (4 points)
 
-![image](checkpoint8.png?raw=true)
+![image](screenshots/checkpoint8.png?raw=true)
 
 ## Challenges
 
