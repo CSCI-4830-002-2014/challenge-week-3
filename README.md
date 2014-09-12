@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Dawson Botsford
 
 # How many points have you earned?
 
@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[Watch Ferguson Shooting Take Over Twitter In Mesmerizing Graphic](http://www.huffingtonpost.com/2014/08/15/ferguson-twitter_n_5681720.html)
 
 # API (I) (4 points x 14 = 56 points)
 
