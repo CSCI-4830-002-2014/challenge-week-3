@@ -22,7 +22,7 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/1TaUqmN.png)
 
 ### Checkpoint 2 (4 points)
 
