@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[Watch Detroit's Population Disappear In 4 Seconds](http://www.huffingtonpost.com/2014/03/07/detroit-population-gif_n_4913997.html)
 
 # API (I) (4 points x 14 = 56 points)
 
