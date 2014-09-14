@@ -4,17 +4,17 @@ Brian Newsom
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+8-9
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[Political Influence](http://www.visualizing.org/full-screen/330455)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -22,61 +22,61 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint4.png?raw=true)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint5.png?raw=true)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint6.png?raw=true)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint7.png?raw=true)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint8.png?raw=true)
 
 ## Challenges
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge6.png?raw=true)
 
 
 
@@ -86,59 +86,62 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+created_at for timestamp
 ```
-![image](image.png?raw=true)
+![image](splunk1a.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="gitevents" 
 ```
-![image](image.png?raw=true)
+![image](splunk1b.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="gitevents" | stats count by type
 ```
-![image](image.png?raw=true)
+![image](splunk1c.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="gitevents" | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](splunk1d.png?raw=true)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+```
+sourcetype="course_github_events" | where type = "PushEvent" | stats count by actor.login
+```
+![image](splunk2a.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="course_github_events" | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](splunk2b.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="course_github_events" | where type = "PullRequestEvent" | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](splunk2c.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="course_github_events" | where type = "PullRequestEvent" | stats count by payload.action
 ```
-![image](image.png?raw=true)
+![image](splunk2d.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="course_github_events" | where type = "PullRequestEvent" | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](splunk2e.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="course_github_events" | where type = "PullRequestEvent" | search "repo.name"="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
-![image](image.png?raw=true)
+![image](splunk2f.png?raw=true)
