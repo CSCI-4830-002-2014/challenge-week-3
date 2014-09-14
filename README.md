@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexia Newgord
 
 # How many points have you earned?
 
@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[How President Obama’s campaign used big data to rally individual voters, Part 1.](http://www.technologyreview.com/featuredstory/508836/how-obama-used-big-data-to-rally-voters-part-1/)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -22,11 +22,11 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](cp1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](cp2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
