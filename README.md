@@ -108,34 +108,37 @@ sourcetype="peymanmortazavi_events" | timechart span=4h count by type
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+```
+sourcetype="course_github_events" type="PushEvent" | stats count by actor.login
+```
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge2/splunk.challenge1.png)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=".course_github_events" | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge2/splunk.challenge2.png)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=".course_github_events" type="PullRequestEvent" | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge2/splunk.challenge3.png)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=".course_github_events" type="PullRequestEvent" | stats count by payload.action
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge2/splunk.challenge4.png)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=".course_github_events" type="PullRequestEvent" payload.action="opened" | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge2/splunk.challenge5.png)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=".course_github_events" type="PullRequestEvent" repo.id="23596888" | timechart count
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge2/splunk.challenge6.png)
