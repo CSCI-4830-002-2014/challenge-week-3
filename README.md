@@ -85,28 +85,25 @@ fill-in-your-answer
 ## Challenge 1
 
 ### Challenge 1-a (4 points)
-```
-sourcetype=[??] [fill-in-the-rest]
-```
-![image](https://www.dropbox.com/s/b9u08c7i7rqtbq3/Screenshot%202014-09-14%2014.57.21.png?dl=0)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge1/splunk.checkpoint1.png)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="peymanmortazavi_events"
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge1/splunk.checkpoint2.png)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="peymanmortazavi_events" | stats count by type
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge1/splunk.checkpoint3.png)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="peymanmortazavi_events" | timechart span=4h count by type
 ```
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/week%203/splunk.challenge1/splunk.checkpoint4.png)
 
 ## Challenge 2
 
