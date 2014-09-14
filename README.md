@@ -10,7 +10,7 @@ Alex Tsankov
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4.5
 
 # Show and tell (4 points)
 
@@ -22,7 +22,7 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1)
 
 ### Checkpoint 2 (4 points)
 
