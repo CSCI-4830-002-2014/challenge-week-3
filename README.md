@@ -4,17 +4,17 @@ Peyman Mortazavi
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6h
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[A Visual history of the american presidency](http://datavisualization.ch/showcases/a-visual-history-of-the-american-presidency/)
 
 # API (I) (4 points x 14 = 56 points)
 
