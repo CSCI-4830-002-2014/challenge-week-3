@@ -14,7 +14,7 @@ Adrian Chen
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[Net Neutrality](http://www.smashingmagazine.com/images/infographics/net-neutrality.png)
 
 # API (I) (4 points x 14 = 56 points)
 
