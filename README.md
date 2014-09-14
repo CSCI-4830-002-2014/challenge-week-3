@@ -26,57 +26,57 @@ fill-in-your-answer
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/ch2.png)
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/ch3.png)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/ch4.png)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/ch5.png)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/ch6.png)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/ch7.png)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/ch8.png)
 
 ## Challenges
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%203/challenge1.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%203/challenge2.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%203/challenge3.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%203/challenge4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%203/challenge5.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/big%20data%20screenshots/Week%203/challenge6.png)
 
 
 
