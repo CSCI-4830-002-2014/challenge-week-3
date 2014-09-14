@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
@@ -56,27 +56,27 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/1)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/2)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/3)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/4)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/5)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/6)
 
 
 
