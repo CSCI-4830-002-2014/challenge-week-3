@@ -34,7 +34,7 @@ fill-in-your-answer
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/dRfY6F1.png)
 
 ### Checkpoint 5 (4 points)
 
