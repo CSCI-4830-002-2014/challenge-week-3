@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Peyman Mortazavi
 
 # How many points have you earned?
 
@@ -22,7 +22,7 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/c1.png)
 
 ### Checkpoint 2 (4 points)
 
