@@ -28,11 +28,11 @@ fill-in-your-answer
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 3](images/api_ch3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 4](images/api_ch4.png?raw=true)
 
 ### Checkpoint 5 (4 points)
 
@@ -84,25 +84,25 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
@@ -113,30 +113,30 @@ sourcetype=access_* [fill-in-the-rest]
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype=[??] [fill-in-the-rest]
 ```
 ![image](image.png?raw=true)
