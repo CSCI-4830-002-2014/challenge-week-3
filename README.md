@@ -88,7 +88,7 @@ fill-in-your-answer
 ```
 sourcetype=[??] [fill-in-the-rest]
 ```
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/b9u08c7i7rqtbq3/Screenshot%202014-09-14%2014.57.21.png?dl=0)
 
 ### Challenge 1-b (4 points)
 ```
