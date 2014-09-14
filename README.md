@@ -56,27 +56,27 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](challenges/1)
+![image](challenges/1.png)
 
 ### 2 (4 points)
 
-![image](challenges/2)
+![image](challenges/2.png)
 
 ### 3 (4 points)
 
-![image](challenges/3)
+![image](challenges/3.png)
 
 ### 4 (4 points)
 
-![image](challenges/4)
+![image](challenges/4.png)
 
 ### 5 (4 points)
 
-![image](challenges/5)
+![image](challenges/5.png)
 
 ### 6 (4 points)
 
-![image](challenges/6)
+![image](challenges/6.png)
 
 
 
