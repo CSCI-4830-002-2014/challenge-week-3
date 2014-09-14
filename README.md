@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Ian Ker-Seymer
 
 # How many points have you earned?
 
@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[What Big Data Can Mean for Sustainability](http://knowledge.wharton.upenn.edu/article/what-big-data-means-for-sustainability/)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -22,35 +22,35 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/b6jx7cwecktcb9d/Screenshot%202014-09-14%2015.51.46.png?dl=1)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/eus6skef72volcy/Screenshot%202014-09-14%2016.14.07.png?dl=1)
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/b0l5640cm620036/Screenshot%202014-09-14%2016.27.25.png?dl=1)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/sdfggkrhsfox4ve/Screenshot%202014-09-14%2016.30.04.png?dl=1)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/6az7r0v448setl3/Screenshot%202014-09-14%2016.41.19.png?dl=1)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/ct0sargc7q1lpyu/Screenshot%202014-09-14%2016.45.30.png?dl=1)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/rschm1bdb0jxh2p/Screenshot%202014-09-14%2016.57.03.png?dl=1)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/1taxxhgwhxelv9b/Screenshot%202014-09-14%2016.56.15.png?dl=1)
 
 ## Challenges
 
