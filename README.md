@@ -1,12 +1,10 @@
 # Name
 
-write-your-name
+Austin Wood
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+100/100
 
 # How many hours have you spent on this?
 
@@ -22,11 +20,11 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 1](images/api_ch1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 2](images/api_ch2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
