@@ -86,59 +86,63 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+NULL
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_TEST"
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_TEST" | stats count by typeRegex
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_TEST"| timechart count by typeRegex usenull=f useother=f
 ```
 ![image](image.png?raw=true)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
+```
+sourcetype="antsankov_events" | stats count by actor.login
+```
+
 ![image](image.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_events" | timechart count by type
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_events" type = "PullRequestEvent" | top actor.login
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_events" type = "PullRequestEvent" | top payload.action
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_events" type = "PullRequestEvent" payload.action = "opened" | chart count by actor.login
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=access_* [fill-in-the-rest]
+sourcetype="antsankov_events" type = "PullRequestEvent" repo.name="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
 ![image](image.png?raw=true)
