@@ -38,45 +38,45 @@ fill-in-your-answer
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/gOwpZf1.png)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/AVNxxlx.png)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ABytZ1Y.png)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ecNbRHF.png)
 
 ## Challenges
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/TcWNZ9w.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/z2PhtNA.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/MR0F78t.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/tlZnbZ9.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/zQtnHbV.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/pvsJCzB.png)
 
 
 
