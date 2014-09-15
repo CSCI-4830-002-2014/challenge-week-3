@@ -4,7 +4,7 @@ Chris Wittenberg
 
 # How many points have you earned?
 
-92/100
+94/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -80,7 +80,7 @@ Chris Wittenberg
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](C3APIChallenge6.png?raw=true)
 
 
 
