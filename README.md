@@ -12,7 +12,7 @@ Too many; I've lost count. This week was a bit much with the API and Splunk AND 
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -108,34 +108,37 @@ sourcetype=indiesquidge | timechart count by type
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+```
+sourcetype="course_github_events" type=PushEvent | stats count by actor.login
+```
+![challenge 2a](images/splunk3_2a.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" | timechart count by type
 ```
-![image](image.png?raw=true)
+![challenge 2b](images/splunk3_2b.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" | top actor.login
 ```
-![image](image.png?raw=true)
+![challenge 2c](images/splunk3_2c.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" | stats count by payload.action
 ```
-![image](image.png?raw=true)
+![challenge 2d](images/splunk3_2d.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" | stats count(payload.action) by actor.login
 ```
-![image](image.png?raw=true)
+![challenge 2e](images/splunk3_2e.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" repo.name="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
-![image](image.png?raw=true)
+![challenge 2f](images/splunk3_2f.png?raw=true)
