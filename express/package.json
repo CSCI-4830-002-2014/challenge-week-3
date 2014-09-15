@@ -1,10 +1,10 @@
 {
-  "name": "blog1",
-  "description": "First Express app",
+  "name": "blog2",
+  "description": "Blog app",
   "version": "0.0.1",
   "dependencies": {
     "express": "3.x",
-    "jade": "^1.6.0"
+    "hbs": "*"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

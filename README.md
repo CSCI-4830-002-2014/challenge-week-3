@@ -8,7 +8,7 @@ Austin Wood
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+Too many; I've lost count. This week was a bit much with the API and Splunk AND the project.
 
 # Show and tell (4 points)
 
@@ -20,35 +20,35 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![checkpoint 1](images/api_ch1.png?raw=true)
+![checkpoint 1](images/api_cp1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![checkpoint 2](images/api_ch2.png?raw=true)
+![checkpoint 2](images/api_cp2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
-![checkpoint 3](images/api_ch3.png?raw=true)
+![checkpoint 3](images/api_cp3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
-![checkpoint 4](images/api_ch4.png?raw=true)
+![checkpoint 4](images/api_cp4.png?raw=true)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 5](images/api_cp5.png?raw=true)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 6](images/api_cp6.png?raw=true)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 7](images/api_cp7.png?raw=true)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 8](images/api_cp8.png?raw=true)
 
 ## Challenges
 
