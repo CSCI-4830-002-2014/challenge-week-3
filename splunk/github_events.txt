@@ -1,0 +1,2094 @@
+[
+  {
+    "id": "2287881977",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 451431360,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "29e848032e08fc7951801dbd70bfbb6bb78274c6",
+      "before": "f23f2204305cc81761ce94fbbc3afb0e38d08ade",
+      "commits": [
+        {
+          "sha": "29e848032e08fc7951801dbd70bfbb6bb78274c6",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete API",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/29e848032e08fc7951801dbd70bfbb6bb78274c6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T08:00:29Z"
+  },
+  {
+    "id": "2287874142",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/49",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/49/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/49/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/49/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/49",
+        "id": 42748389,
+        "number": 49,
+        "title": "This is Austin",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-15T07:53:51Z",
+        "updated_at": "2014-09-15T07:53:51Z",
+        "closed_at": null,
+        "body": "I ate dinner for breakfast today."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-15T07:53:51Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287840651",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 451413208,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "f23f2204305cc81761ce94fbbc3afb0e38d08ade",
+      "before": "f11ac622169b1d3ff3fd882335ccc09592b8ebbd",
+      "commits": [
+        {
+          "sha": "f23f2204305cc81761ce94fbbc3afb0e38d08ade",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Express",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/f23f2204305cc81761ce94fbbc3afb0e38d08ade"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T07:23:57Z"
+  },
+  {
+    "id": "2287835897",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 451411129,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "f11ac622169b1d3ff3fd882335ccc09592b8ebbd",
+      "before": "19dc31388cc65cba4ff3523d6fd65f27494d9aef",
+      "commits": [
+        {
+          "sha": "6cc9a52c1ad62de1a7ef3af6e48c27bc294fa551",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Express blog 1",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/6cc9a52c1ad62de1a7ef3af6e48c27bc294fa551"
+        },
+        {
+          "sha": "f11ac622169b1d3ff3fd882335ccc09592b8ebbd",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Express",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/f11ac622169b1d3ff3fd882335ccc09592b8ebbd"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T07:19:29Z"
+  },
+  {
+    "id": "2287754653",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 19,
+      "pull_request": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/19",
+        "id": 21214530,
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/pull/19",
+        "diff_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/pull/19.diff",
+        "patch_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/pull/19.patch",
+        "issue_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/19",
+        "number": 19,
+        "state": "open",
+        "locked": false,
+        "title": "Austin Wood – Project 1 Make A",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "",
+        "created_at": "2014-09-15T05:47:21Z",
+        "updated_at": "2014-09-15T05:47:21Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/19/commits",
+        "review_comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/19/comments",
+        "review_comment_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/19/comments",
+        "statuses_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/statuses/2fb1ba879902b28947322a2b386d1f82b76b281f",
+        "head": {
+          "label": "indiesquidge:master",
+          "ref": "master",
+          "sha": "2fb1ba879902b28947322a2b386d1f82b76b281f",
+          "user": {
+            "login": "indiesquidge",
+            "id": 3409645,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+            "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+            "url": "https://api.github.com/users/indiesquidge",
+            "html_url": "https://github.com/indiesquidge",
+            "followers_url": "https://api.github.com/users/indiesquidge/followers",
+            "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+            "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+            "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+            "repos_url": "https://api.github.com/users/indiesquidge/repos",
+            "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 23928528,
+            "name": "project-1-make-a",
+            "full_name": "indiesquidge/project-1-make-a",
+            "owner": {
+              "login": "indiesquidge",
+              "id": 3409645,
+              "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+              "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+              "url": "https://api.github.com/users/indiesquidge",
+              "html_url": "https://github.com/indiesquidge",
+              "followers_url": "https://api.github.com/users/indiesquidge/followers",
+              "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+              "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+              "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+              "repos_url": "https://api.github.com/users/indiesquidge/repos",
+              "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/indiesquidge/project-1-make-a",
+            "description": "",
+            "fork": true,
+            "url": "https://api.github.com/repos/indiesquidge/project-1-make-a",
+            "forks_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/forks",
+            "keys_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/teams",
+            "hooks_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/hooks",
+            "issue_events_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/events",
+            "assignees_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/tags",
+            "blobs_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/languages",
+            "stargazers_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/stargazers",
+            "contributors_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/contributors",
+            "subscribers_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/subscribers",
+            "subscription_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/subscription",
+            "commits_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/merges",
+            "archive_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/downloads",
+            "issues_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/labels{/name}",
+            "releases_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/releases{/id}",
+            "created_at": "2014-09-11T17:34:41Z",
+            "updated_at": "2014-09-15T05:28:09Z",
+            "pushed_at": "2014-09-15T05:44:39Z",
+            "git_url": "git://github.com/indiesquidge/project-1-make-a.git",
+            "ssh_url": "git@github.com:indiesquidge/project-1-make-a.git",
+            "clone_url": "https://github.com/indiesquidge/project-1-make-a.git",
+            "svn_url": "https://github.com/indiesquidge/project-1-make-a",
+            "homepage": null,
+            "size": 135,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "Arduino",
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "CSCI-4830-002-2014:master",
+          "ref": "master",
+          "sha": "a28234526547e23765c02d91e8106053e06816e4",
+          "user": {
+            "login": "CSCI-4830-002-2014",
+            "id": 8374562,
+            "avatar_url": "https://avatars.githubusercontent.com/u/8374562?v=2",
+            "gravatar_id": null,
+            "url": "https://api.github.com/users/CSCI-4830-002-2014",
+            "html_url": "https://github.com/CSCI-4830-002-2014",
+            "followers_url": "https://api.github.com/users/CSCI-4830-002-2014/followers",
+            "following_url": "https://api.github.com/users/CSCI-4830-002-2014/following{/other_user}",
+            "gists_url": "https://api.github.com/users/CSCI-4830-002-2014/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/CSCI-4830-002-2014/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/CSCI-4830-002-2014/subscriptions",
+            "organizations_url": "https://api.github.com/users/CSCI-4830-002-2014/orgs",
+            "repos_url": "https://api.github.com/users/CSCI-4830-002-2014/repos",
+            "events_url": "https://api.github.com/users/CSCI-4830-002-2014/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/CSCI-4830-002-2014/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 23597603,
+            "name": "project-1-make-a",
+            "full_name": "CSCI-4830-002-2014/project-1-make-a",
+            "owner": {
+              "login": "CSCI-4830-002-2014",
+              "id": 8374562,
+              "avatar_url": "https://avatars.githubusercontent.com/u/8374562?v=2",
+              "gravatar_id": null,
+              "url": "https://api.github.com/users/CSCI-4830-002-2014",
+              "html_url": "https://github.com/CSCI-4830-002-2014",
+              "followers_url": "https://api.github.com/users/CSCI-4830-002-2014/followers",
+              "following_url": "https://api.github.com/users/CSCI-4830-002-2014/following{/other_user}",
+              "gists_url": "https://api.github.com/users/CSCI-4830-002-2014/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/CSCI-4830-002-2014/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/CSCI-4830-002-2014/subscriptions",
+              "organizations_url": "https://api.github.com/users/CSCI-4830-002-2014/orgs",
+              "repos_url": "https://api.github.com/users/CSCI-4830-002-2014/repos",
+              "events_url": "https://api.github.com/users/CSCI-4830-002-2014/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/CSCI-4830-002-2014/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a",
+            "description": "",
+            "fork": false,
+            "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a",
+            "forks_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/forks",
+            "keys_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/teams",
+            "hooks_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/hooks",
+            "issue_events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/events",
+            "assignees_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/tags",
+            "blobs_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/languages",
+            "stargazers_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/stargazers",
+            "contributors_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/contributors",
+            "subscribers_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/subscribers",
+            "subscription_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/subscription",
+            "commits_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/merges",
+            "archive_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/downloads",
+            "issues_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/labels{/name}",
+            "releases_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/releases{/id}",
+            "created_at": "2014-09-02T22:16:21Z",
+            "updated_at": "2014-09-03T17:36:40Z",
+            "pushed_at": "2014-09-07T22:10:07Z",
+            "git_url": "git://github.com/CSCI-4830-002-2014/project-1-make-a.git",
+            "ssh_url": "git@github.com:CSCI-4830-002-2014/project-1-make-a.git",
+            "clone_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a.git",
+            "svn_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a",
+            "homepage": null,
+            "size": 135,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "Arduino",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 15,
+            "mirror_url": null,
+            "open_issues_count": 15,
+            "forks": 15,
+            "open_issues": 15,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/19"
+          },
+          "html": {
+            "href": "https://github.com/CSCI-4830-002-2014/project-1-make-a/pull/19"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/19"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/19/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/19/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/pulls/19/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/statuses/2fb1ba879902b28947322a2b386d1f82b76b281f"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 73788,
+        "deletions": 26,
+        "changed_files": 8
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-15T05:47:21Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287752730",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23928528,
+      "name": "indiesquidge/project-1-make-a",
+      "url": "https://api.github.com/repos/indiesquidge/project-1-make-a"
+    },
+    "payload": {
+      "push_id": 451374492,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "2fb1ba879902b28947322a2b386d1f82b76b281f",
+      "before": "76b61dd8f679149a4637f1d0fb27033361191781",
+      "commits": [
+        {
+          "sha": "2fb1ba879902b28947322a2b386d1f82b76b281f",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Project 1 Make A",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits/2fb1ba879902b28947322a2b386d1f82b76b281f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T05:44:39Z"
+  },
+  {
+    "id": "2287751261",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23928528,
+      "name": "indiesquidge/project-1-make-a",
+      "url": "https://api.github.com/repos/indiesquidge/project-1-make-a"
+    },
+    "payload": {
+      "push_id": 451373833,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "76b61dd8f679149a4637f1d0fb27033361191781",
+      "before": "cca1fad1acf91453e5dcfe21bf6b396b58323b09",
+      "commits": [
+        {
+          "sha": "76b61dd8f679149a4637f1d0fb27033361191781",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Project 1 Make A",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits/76b61dd8f679149a4637f1d0fb27033361191781"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T05:42:32Z"
+  },
+  {
+    "id": "2287748614",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23928528,
+      "name": "indiesquidge/project-1-make-a",
+      "url": "https://api.github.com/repos/indiesquidge/project-1-make-a"
+    },
+    "payload": {
+      "push_id": 451372622,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "cca1fad1acf91453e5dcfe21bf6b396b58323b09",
+      "before": "93a80d31a0241d83d1d5d57e2ee34c4dda317aed",
+      "commits": [
+        {
+          "sha": "cca1fad1acf91453e5dcfe21bf6b396b58323b09",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Project 1 Make A",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits/cca1fad1acf91453e5dcfe21bf6b396b58323b09"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T05:38:47Z"
+  },
+  {
+    "id": "2287747428",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23928528,
+      "name": "indiesquidge/project-1-make-a",
+      "url": "https://api.github.com/repos/indiesquidge/project-1-make-a"
+    },
+    "payload": {
+      "push_id": 451372095,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "93a80d31a0241d83d1d5d57e2ee34c4dda317aed",
+      "before": "faef36718bf34699d05dc061602b628abcfab7e6",
+      "commits": [
+        {
+          "sha": "93a80d31a0241d83d1d5d57e2ee34c4dda317aed",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Project 1 Make A",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits/93a80d31a0241d83d1d5d57e2ee34c4dda317aed"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T05:37:08Z"
+  },
+  {
+    "id": "2287746351",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23928528,
+      "name": "indiesquidge/project-1-make-a",
+      "url": "https://api.github.com/repos/indiesquidge/project-1-make-a"
+    },
+    "payload": {
+      "push_id": 451371631,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "faef36718bf34699d05dc061602b628abcfab7e6",
+      "before": "c0ee63e1a7c7ca30b1795f9c0a6bf30adc5e9df0",
+      "commits": [
+        {
+          "sha": "faef36718bf34699d05dc061602b628abcfab7e6",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Project 1 Make A",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits/faef36718bf34699d05dc061602b628abcfab7e6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T05:35:37Z"
+  },
+  {
+    "id": "2287740958",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23928528,
+      "name": "indiesquidge/project-1-make-a",
+      "url": "https://api.github.com/repos/indiesquidge/project-1-make-a"
+    },
+    "payload": {
+      "push_id": 451369346,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "c0ee63e1a7c7ca30b1795f9c0a6bf30adc5e9df0",
+      "before": "a28234526547e23765c02d91e8106053e06816e4",
+      "commits": [
+        {
+          "sha": "c0ee63e1a7c7ca30b1795f9c0a6bf30adc5e9df0",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Project 1 Make A",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits/c0ee63e1a7c7ca30b1795f9c0a6bf30adc5e9df0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T05:28:09Z"
+  },
+  {
+    "id": "2287448050",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/22",
+        "id": 42730696,
+        "number": 22,
+        "title": "Faulty data Collection",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2014-09-14T21:18:21Z",
+        "updated_at": "2014-09-14T21:29:57Z",
+        "closed_at": null,
+        "body": "So I've been trying to collect 4 hour samples over the last few days, and for the first set it worked fine, but I just now noticed that my latest collections are not making any sense. When I run my code locally (checking it using the Arduino software on my computer) it works just fine, but then when I test it using the battery, I get ridiculous values. First off, it no longer collects time correctly. It has also randomly reset itself, and the latest problem is that it linearly goes up in sound values over time, all the way into the 400's (which is incredibly loud, so clearly not correct, at least for my environment). I have tried changing batteries, hard resetting the Arduino, re-creating my code in a new file and uploading it, etc. Nothing seems to be working. Any idea what the problem might be? It's clearly something to do with the microSD, yeah?"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/comments/55540226",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/22#issuecomment-55540226",
+        "issue_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22",
+        "id": 55540226,
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-09-14T21:29:57Z",
+        "updated_at": "2014-09-14T21:29:57Z",
+        "body": "I suppose the cool part out of this mess is that I actually have the data for when it started to break, which was ~30 minutes after 8pm on Saturday night ha."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-14T21:29:57Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287441071",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/22/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/22",
+        "id": 42730696,
+        "number": 22,
+        "title": "Faulty data Collection",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-14T21:18:21Z",
+        "updated_at": "2014-09-14T21:18:21Z",
+        "closed_at": null,
+        "body": null
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-14T21:18:22Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287428705",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/16",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/16/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/16/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/16/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/16",
+        "id": 42709107,
+        "number": 16,
+        "title": "Getting Nonce That Works",
+        "user": {
+          "login": "cwitty1919",
+          "id": 8551620,
+          "avatar_url": "https://avatars.githubusercontent.com/u/8551620?v=2",
+          "gravatar_id": "2f7101b95659a4b8959e703add74fa30",
+          "url": "https://api.github.com/users/cwitty1919",
+          "html_url": "https://github.com/cwitty1919",
+          "followers_url": "https://api.github.com/users/cwitty1919/followers",
+          "following_url": "https://api.github.com/users/cwitty1919/following{/other_user}",
+          "gists_url": "https://api.github.com/users/cwitty1919/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/cwitty1919/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/cwitty1919/subscriptions",
+          "organizations_url": "https://api.github.com/users/cwitty1919/orgs",
+          "repos_url": "https://api.github.com/users/cwitty1919/repos",
+          "events_url": "https://api.github.com/users/cwitty1919/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/cwitty1919/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 4,
+        "created_at": "2014-09-14T00:16:08Z",
+        "updated_at": "2014-09-14T20:58:22Z",
+        "closed_at": null,
+        "body": "Hi all,\r\n\r\nWhen I am trying to run a request using my Postman App, I keep getting an authentication error that I know has to do with the Nonce. In the tutorial, Rory fixes this problem by dropping a new 32 character Nonce out of thin air. When I try to do the same (or at least repeat the same four characters eight times in a row),  this does not fix the issue.  "
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/comments/55539323",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/16#issuecomment-55539323",
+        "issue_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/16",
+        "id": 55539323,
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-09-14T20:58:22Z",
+        "updated_at": "2014-09-14T20:58:22Z",
+        "body": "I had this same issue. What worked for me was creating an alpha-numeric string (like specified above, I like to either copy and paste the nonce that is already there 5 times and then add two characters, or use ABCDEFGHIJKLMNOPQRSTUVWXYZ123456). Then you have to first refresh your request before sending it again. This was the solution for me, since my problem kept coming up when I would simply send another request after fixing the nonce. Try refreshing and then sending. Let me know if this works."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-14T20:58:22Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286835769",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 450956461,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "19dc31388cc65cba4ff3523d6fd65f27494d9aef",
+      "before": "dcbeaad0481cf558156d5897800fa97acb3650c5",
+      "commits": [
+        {
+          "sha": "19dc31388cc65cba4ff3523d6fd65f27494d9aef",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Node.js Beginner's Guide",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/19dc31388cc65cba4ff3523d6fd65f27494d9aef"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-14T00:23:08Z"
+  },
+  {
+    "id": "2286834983",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 450956093,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "dcbeaad0481cf558156d5897800fa97acb3650c5",
+      "before": "4e186a265d3d104216b50fe317a51bac4ca7a33c",
+      "commits": [
+        {
+          "sha": "dcbeaad0481cf558156d5897800fa97acb3650c5",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Node.js Beginner's Guide",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/dcbeaad0481cf558156d5897800fa97acb3650c5"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-14T00:21:13Z"
+  },
+  {
+    "id": "2286831003",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 450954165,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "4e186a265d3d104216b50fe317a51bac4ca7a33c",
+      "before": "a78ec7f5c7688829338d10d487eede7e7bce1bc9",
+      "commits": [
+        {
+          "sha": "4e186a265d3d104216b50fe317a51bac4ca7a33c",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Twitter API",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/4e186a265d3d104216b50fe317a51bac4ca7a33c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-14T00:11:28Z"
+  },
+  {
+    "id": "2286830552",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 450953932,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "a78ec7f5c7688829338d10d487eede7e7bce1bc9",
+      "before": "c472fda4394af7ab46e942600e5ab9b70c626986",
+      "commits": [
+        {
+          "sha": "2a3663b3c16fcee4d72636ad75778a9f8fc2c4a7",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Twitter API",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/2a3663b3c16fcee4d72636ad75778a9f8fc2c4a7"
+        },
+        {
+          "sha": "a78ec7f5c7688829338d10d487eede7e7bce1bc9",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Merge branch 'master' of https://github.com/indiesquidge/challenge-week-3\n\n* 'master' of https://github.com/indiesquidge/challenge-week-3:\n  Complete Twitter API",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/a78ec7f5c7688829338d10d487eede7e7bce1bc9"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-14T00:10:16Z"
+  },
+  {
+    "id": "2286829389",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 24007158,
+      "name": "indiesquidge/challenge-week-3",
+      "url": "https://api.github.com/repos/indiesquidge/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 450953419,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "c472fda4394af7ab46e942600e5ab9b70c626986",
+      "before": "295e66f3d864347d7c84ca594c5e5a1e4efcc033",
+      "commits": [
+        {
+          "sha": "c472fda4394af7ab46e942600e5ab9b70c626986",
+          "author": {
+            "email": "i@austinwood.me",
+            "name": "Austin Wood"
+          },
+          "message": "Complete Twitter API",
+          "distinct": true,
+          "url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits/c472fda4394af7ab46e942600e5ab9b70c626986"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-14T00:07:43Z"
+  },
+  {
+    "id": "2286819471",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/15",
+        "id": 42708549,
+        "number": 15,
+        "title": "CoffeeScript > JavaScript",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2014-09-13T23:41:31Z",
+        "updated_at": "2014-09-13T23:45:53Z",
+        "closed_at": null,
+        "body": null
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/comments/55510726",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/15#issuecomment-55510726",
+        "issue_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15",
+        "id": 55510726,
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-09-13T23:45:53Z",
+        "updated_at": "2014-09-13T23:45:53Z",
+        "body": "This isn't an issue, but just as a heads up to others, I would strongly recommend using CoffeeScript over JavaScript. It pulls all of the best features from JavaScript and omits the nasty parts. function calls are much simpler, variables don't need a declaration, etc. Lots of good stuff. It's an easy transfer over since CoffeeScript, at its roots, still compiles down to Javascript. Here's a good place to read about getting started:\nhttp://coffeescript.org/\n\nAnd to make this clear to others since it took me a bit to figure out, once you install CoffeeScript, you can run it with the command `coffee <file>` rather than `node <file>`."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T23:45:53Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286817601",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/15/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/15",
+        "id": 42708549,
+        "number": 15,
+        "title": "CoffeeScript > JavaScript",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-13T23:41:31Z",
+        "updated_at": "2014-09-13T23:41:31Z",
+        "closed_at": null,
+        "body": null
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T23:41:31Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286773238",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "forkee": {
+        "id": 24007158,
+        "name": "challenge-week-3",
+        "full_name": "indiesquidge/challenge-week-3",
+        "owner": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/indiesquidge/challenge-week-3",
+        "description": "",
+        "fork": true,
+        "url": "https://api.github.com/repos/indiesquidge/challenge-week-3",
+        "forks_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/forks",
+        "keys_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/teams",
+        "hooks_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/hooks",
+        "issue_events_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/events",
+        "assignees_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/tags",
+        "blobs_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/languages",
+        "stargazers_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/stargazers",
+        "contributors_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/contributors",
+        "subscribers_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/subscribers",
+        "subscription_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/subscription",
+        "commits_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/issues/comments/{number}",
+        "contents_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/merges",
+        "archive_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/downloads",
+        "issues_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/labels{/name}",
+        "releases_url": "https://api.github.com/repos/indiesquidge/challenge-week-3/releases{/id}",
+        "created_at": "2014-09-13T22:09:29Z",
+        "updated_at": "2014-09-09T12:29:43Z",
+        "pushed_at": "2014-09-11T15:43:24Z",
+        "git_url": "git://github.com/indiesquidge/challenge-week-3.git",
+        "ssh_url": "git@github.com:indiesquidge/challenge-week-3.git",
+        "clone_url": "https://github.com/indiesquidge/challenge-week-3.git",
+        "svn_url": "https://github.com/indiesquidge/challenge-week-3",
+        "homepage": null,
+        "size": 0,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_downloads": true,
+        "has_wiki": true,
+        "forks_count": 0,
+        "mirror_url": null,
+        "open_issues_count": 0,
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "master",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T22:09:29Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2285868130",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/9",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/9/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/9/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/9/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/issues/9",
+        "id": 42670443,
+        "number": 9,
+        "title": "move this to closed.",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T21:03:51Z",
+        "updated_at": "2014-09-12T21:03:51Z",
+        "closed_at": null,
+        "body": null
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T21:03:51Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2285844599",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/8",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/8/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/8/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/8/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/issues/8",
+        "id": 42669394,
+        "number": 8,
+        "title": "testing again",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T20:51:27Z",
+        "updated_at": "2014-09-12T20:51:27Z",
+        "closed_at": null,
+        "body": null
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T20:51:27Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2285843788",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/7",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/7/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/7/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/7/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/issues/7",
+        "id": 42669362,
+        "number": 7,
+        "title": "this is another test",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T20:51:01Z",
+        "updated_at": "2014-09-12T20:51:01Z",
+        "closed_at": null,
+        "body": null
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T20:51:01Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2285572422",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/5",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/5/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/5/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/5/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/issues/5",
+        "id": 42656665,
+        "number": 5,
+        "title": "Using external libraries",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T18:26:20Z",
+        "updated_at": "2014-09-12T18:26:20Z",
+        "closed_at": null,
+        "body": "I am trying to use a separate library to keep track of time for the values, but when I include the `Time.h` file in my source code, it won't let me use any functions from the library. I have looked up documentation for including external libraries and haven't gotten anywhere. Could you help me out getting it sorted out:\r\n(http://playground.arduino.cc/Code/Time)"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T18:26:20Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2285570526",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/4",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/4/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/4/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/4/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/issues/4",
+        "id": 42656587,
+        "number": 4,
+        "title": "dtostrf(runavg, 1, 2, sound)",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T18:25:19Z",
+        "updated_at": "2014-09-12T18:25:19Z",
+        "closed_at": null,
+        "body": "From what I can tell, dtostrf(runavg, 1, 2, sound) converts a float (runavg) to a string of length (1) with precision (2) and stores it in an array (sound). I'm confused why `1` is the second argument here. The string is not of length 1, is it?"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T18:25:19Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2285569644",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/3",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/3/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/3/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/3/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/issues/3",
+        "id": 42656552,
+        "number": 3,
+        "title": "Calculating the average by squaring each recording",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T18:24:51Z",
+        "updated_at": "2014-09-12T18:24:51Z",
+        "closed_at": null,
+        "body": "Why are we calculating the average by squaring each recording, dividing by the total number of samples, and then sqrt( ) that? Why can't we run a linear averaging method? What is the benefit to squaring each value?\r\n"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T18:24:51Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2285568564",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/2",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/2/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/2/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a/issues/2/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/project-1-make-a/issues/2",
+        "id": 42656506,
+        "number": 2,
+        "title": "pinMode( ), why do we set pin 8 and 10 to output?",
+        "user": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T18:24:17Z",
+        "updated_at": "2014-09-12T18:24:17Z",
+        "closed_at": null,
+        "body": "When we use pinMode( ), why do we set pin 8 and 10 to output? I didn't think we used either of those pins, unless I'm not understanding what is referred to as a \"pin\"."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T18:24:17Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2283259992",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 3409645,
+      "login": "indiesquidge",
+      "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+      "url": "https://api.github.com/users/indiesquidge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3409645?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "forkee": {
+        "id": 23928528,
+        "name": "project-1-make-a",
+        "full_name": "indiesquidge/project-1-make-a",
+        "owner": {
+          "login": "indiesquidge",
+          "id": 3409645,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3409645?v=2",
+          "gravatar_id": "7859d3e26159735a713fd70ec8dd1b72",
+          "url": "https://api.github.com/users/indiesquidge",
+          "html_url": "https://github.com/indiesquidge",
+          "followers_url": "https://api.github.com/users/indiesquidge/followers",
+          "following_url": "https://api.github.com/users/indiesquidge/following{/other_user}",
+          "gists_url": "https://api.github.com/users/indiesquidge/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/indiesquidge/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/indiesquidge/subscriptions",
+          "organizations_url": "https://api.github.com/users/indiesquidge/orgs",
+          "repos_url": "https://api.github.com/users/indiesquidge/repos",
+          "events_url": "https://api.github.com/users/indiesquidge/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/indiesquidge/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/indiesquidge/project-1-make-a",
+        "description": "",
+        "fork": true,
+        "url": "https://api.github.com/repos/indiesquidge/project-1-make-a",
+        "forks_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/forks",
+        "keys_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/teams",
+        "hooks_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/hooks",
+        "issue_events_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/events",
+        "assignees_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/tags",
+        "blobs_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/languages",
+        "stargazers_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/stargazers",
+        "contributors_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/contributors",
+        "subscribers_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/subscribers",
+        "subscription_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/subscription",
+        "commits_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/issues/comments/{number}",
+        "contents_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/merges",
+        "archive_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/downloads",
+        "issues_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/labels{/name}",
+        "releases_url": "https://api.github.com/repos/indiesquidge/project-1-make-a/releases{/id}",
+        "created_at": "2014-09-11T17:34:41Z",
+        "updated_at": "2014-09-03T17:36:40Z",
+        "pushed_at": "2014-09-07T22:10:07Z",
+        "git_url": "git://github.com/indiesquidge/project-1-make-a.git",
+        "ssh_url": "git@github.com:indiesquidge/project-1-make-a.git",
+        "clone_url": "https://github.com/indiesquidge/project-1-make-a.git",
+        "svn_url": "https://github.com/indiesquidge/project-1-make-a",
+        "homepage": null,
+        "size": 135,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_downloads": true,
+        "has_wiki": true,
+        "forks_count": 0,
+        "mirror_url": null,
+        "open_issues_count": 0,
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "master",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-11T17:34:41Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  }
+]

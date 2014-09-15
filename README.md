@@ -83,27 +83,27 @@ Too many; I've lost count. This week was a bit much with the API and Splunk AND 
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+created_at
 ```
-![image](image.png?raw=true)
+![challenge 1a](images/splunk3_1a.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=indiesquidge_events
 ```
-![image](image.png?raw=true)
+![challenge 1b](images/splunk3_1b.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=indiesquidge | stats count by type
 ```
-![image](image.png?raw=true)
+![challenge 1c](images/splunk3_1c.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=indiesquidge | timechart count by type
 ```
-![image](image.png?raw=true)
+![challenge 1d](images/splunk3_1d.png?raw=true)
 
 ## Challenge 2
 
