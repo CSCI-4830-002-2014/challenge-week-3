@@ -1,0 +1,1737 @@
+[
+  {
+    "id": "2287550435",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23940540,
+      "name": "dawsonbotsford/challenge-week-3",
+      "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 451285212,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "57c5b21067b4816824937b9c2f24a99040541609",
+      "before": "f8a5fdcb1965c50f530d6af75fa0f0f885587b0b",
+      "commits": [
+        {
+          "sha": "57c5b21067b4816824937b9c2f24a99040541609",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dbotsford"
+          },
+          "message": "Challenges part 1 completed",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/commits/57c5b21067b4816824937b9c2f24a99040541609"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-15T00:41:30Z"
+  },
+  {
+    "id": "2287549310",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/30",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/30/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/30/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/30/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/30",
+        "id": 42734952,
+        "number": 30,
+        "title": "This is Dawson",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-15T00:39:17Z",
+        "updated_at": "2014-09-15T00:39:17Z",
+        "closed_at": null,
+        "body": "I ate air for breakfast today."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-15T00:39:17Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287490412",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23940540,
+      "name": "dawsonbotsford/challenge-week-3",
+      "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 451256940,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "f8a5fdcb1965c50f530d6af75fa0f0f885587b0b",
+      "before": "17df7145482a737295b7012e5f53fd81fee9a347",
+      "commits": [
+        {
+          "sha": "f8a5fdcb1965c50f530d6af75fa0f0f885587b0b",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dbotsford"
+          },
+          "message": "Finally got postman get stuff",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/commits/f8a5fdcb1965c50f530d6af75fa0f0f885587b0b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-14T22:44:59Z"
+  },
+  {
+    "id": "2287487985",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "closed",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/21",
+        "id": 42729530,
+        "number": 21,
+        "title": "npm express install error",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2014-09-14T20:28:51Z",
+        "updated_at": "2014-09-14T22:40:13Z",
+        "closed_at": "2014-09-14T22:40:13Z",
+        "body": "Having tons of npm errors in my 12.04 Ubuntu distro. After proceeding normally through the first part of the node.js tutorial I have arrived upon the express install portion. After typing \"npm install express\" I get installation errors. \r\n\r\nReceived several warnings such as \"UNKNOWN\" and \"Unsupported\". Performed an npm uninstall and reinstall to troubleshoot with no luck. \r\n\r\n**Getting very frustrated with this assignment in total. Poured in 4 hours so far, attempting to learn all I can and it is feeling like I won't finish by tonight. I would love to see a different teaching approach for these weekend assignments and some assignment change or exception for this one with all of the software issues I have been tripping over.**\r\n\r\nAny help with this npm issue would be greatly appreciated. \r\n\r\n![image](http://i.imgur.com/iOcgLWB.png)"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-14T22:40:13Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287487984",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/21",
+        "id": 42729530,
+        "number": 21,
+        "title": "npm express install error",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2014-09-14T20:28:51Z",
+        "updated_at": "2014-09-14T22:40:13Z",
+        "closed_at": "2014-09-14T22:40:13Z",
+        "body": "Having tons of npm errors in my 12.04 Ubuntu distro. After proceeding normally through the first part of the node.js tutorial I have arrived upon the express install portion. After typing \"npm install express\" I get installation errors. \r\n\r\nReceived several warnings such as \"UNKNOWN\" and \"Unsupported\". Performed an npm uninstall and reinstall to troubleshoot with no luck. \r\n\r\n**Getting very frustrated with this assignment in total. Poured in 4 hours so far, attempting to learn all I can and it is feeling like I won't finish by tonight. I would love to see a different teaching approach for these weekend assignments and some assignment change or exception for this one with all of the software issues I have been tripping over.**\r\n\r\nAny help with this npm issue would be greatly appreciated. \r\n\r\n![image](http://i.imgur.com/iOcgLWB.png)"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/comments/55542025",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/21#issuecomment-55542025",
+        "issue_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21",
+        "id": 55542025,
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-09-14T22:40:13Z",
+        "updated_at": "2014-09-14T22:40:13Z",
+        "body": "Props to @ianks, after over an hour of toggling and work homebrew did the trick. Off to the rest of the assignment...Cheers."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-14T22:40:13Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287410357",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/21/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/21",
+        "id": 42729530,
+        "number": 21,
+        "title": "npm express install error",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-14T20:28:51Z",
+        "updated_at": "2014-09-14T20:28:51Z",
+        "closed_at": null,
+        "body": "Having tons of npm errors in my 12.04 Ubuntu distro. After proceeding normally through the first part of the node.js tutorial I have arrived upon the express install portion. After typing \"npm install express\" I get installation errors. \r\n\r\nReceived several warnings such as \"UNKNOWN\" and \"Unsupported\". Performed an npm uninstall and reinstall to troubleshoot with no luck. \r\n\r\n**Getting very frustrated with this assignment in total. Poured in 4 hours so far, attempting to learn all I can and it is feeling like I won't finish by tonight. I would love to see a different teaching approach for these weekend assignments and some assignment change or exception for this one with all of the software issues I have been tripping over.**\r\n\r\nAny help with this npm issue would be greatly appreciated. \r\n\r\n![image](http://i.imgur.com/iOcgLWB.png)"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-14T20:28:51Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2287406017",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23940540,
+      "name": "dawsonbotsford/challenge-week-3",
+      "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 451216653,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "17df7145482a737295b7012e5f53fd81fee9a347",
+      "before": "92df8390f8971ba53bdf60a00684cac14d51ef9f",
+      "commits": [
+        {
+          "sha": "17df7145482a737295b7012e5f53fd81fee9a347",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "Dawson Botsford"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/commits/17df7145482a737295b7012e5f53fd81fee9a347"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-14T20:21:39Z"
+  },
+  {
+    "id": "2286818954",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23940540,
+      "name": "dawsonbotsford/challenge-week-3",
+      "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 450948423,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "92df8390f8971ba53bdf60a00684cac14d51ef9f",
+      "before": "180a1fbabc16c017d7101c64ae35343c49c5389f",
+      "commits": [
+        {
+          "sha": "92df8390f8971ba53bdf60a00684cac14d51ef9f",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "Dawson Botsford"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/commits/92df8390f8971ba53bdf60a00684cac14d51ef9f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-13T23:44:32Z"
+  },
+  {
+    "id": "2286801679",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/14",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/14/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/14/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/14/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/14",
+        "id": 42707984,
+        "number": 14,
+        "title": "Authentication errors",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-13T23:05:24Z",
+        "updated_at": "2014-09-13T23:05:24Z",
+        "closed_at": null,
+        "body": "I have been stuck on this error code 32 from Postman for the past several hours. No luck after scouring the internet and working with two of my roommates who have completed this portion of the assignment. \r\n\r\nI follow the tutorial and submit a successful GET. This returns my one and only Tweet as of now. I then replace the \"URL Parameter Key\" with \"https://api.twitter.com/1.1/statuses/update.json\" and the GET to a POST. This returns error code 32 \"Could not authenticate you\". \r\n\r\nI have regenerated keys several times, refreshed the page several times, exited out of my browser entirely several times, and still no luck. \r\n\r\n![image](http://i.imgur.com/5oaBC15.png)"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T23:05:24Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286611021",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "closed",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/10",
+        "id": 42585116,
+        "number": 10,
+        "title": "No Twitter Account",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2014-09-12T00:22:02Z",
+        "updated_at": "2014-09-13T17:17:55Z",
+        "closed_at": "2014-09-13T17:17:55Z",
+        "body": "I don't have a Twitter account, and after seeing the first few minutes of the tutorial, it looks like I need to make one. Is this the case?"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T17:17:56Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286611019",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/10",
+        "id": 42585116,
+        "number": 10,
+        "title": "No Twitter Account",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2014-09-12T00:22:02Z",
+        "updated_at": "2014-09-13T17:17:55Z",
+        "closed_at": "2014-09-13T17:17:55Z",
+        "body": "I don't have a Twitter account, and after seeing the first few minutes of the tutorial, it looks like I need to make one. Is this the case?"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/comments/55500510",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/10#issuecomment-55500510",
+        "issue_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10",
+        "id": 55500510,
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-09-13T17:17:55Z",
+        "updated_at": "2014-09-13T17:17:55Z",
+        "body": "Made a Twitter account. Let's assure we maintain proper flow by closing issues upon successful solution."
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T17:17:55Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286610503",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/12",
+        "id": 42700538,
+        "number": 12,
+        "title": "Bad Authentication Data",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2014-09-13T17:04:54Z",
+        "updated_at": "2014-09-13T17:17:00Z",
+        "closed_at": "2014-09-13T17:17:00Z",
+        "body": "This assignment is proving to be very error prone already for me. I have been trying to work through my Twitter authentication for an hour now with nothing but errors. Here is the situation:\r\n\r\nI am following Ierne up until 6:20 in the video when he pastes the 32 character \"nonce\" value into Twitter. This situation does not fix my error code. I have error code 215 \"Bad Authentication Data\". In the video Postman highlights his \"nonce\" value to show that is where the error lies, but I am not getting any fields highlighted for assistance by postman.\r\n\r\nI followed his actions up until this point, so my newly regenerated keys have proper read and write access and I am attempting to use the \"nonce\" value from the video of \"ABCDEFGHIJKLMNOPQRSTUVWXYZ123456\" which is 32 characters. Need some more pointers please.\r\n\r\n![image](http://i.imgur.com/wiErMtx.png)\r\n![image](http://i.imgur.com/iuoC9L8.png)"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/comments/55500484",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/12#issuecomment-55500484",
+        "issue_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12",
+        "id": 55500484,
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-09-13T17:17:00Z",
+        "updated_at": "2014-09-13T17:17:00Z",
+        "body": "solved by @peymanmortazavi"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T17:17:00Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286610502",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "closed",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/12",
+        "id": 42700538,
+        "number": 12,
+        "title": "Bad Authentication Data",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2014-09-13T17:04:54Z",
+        "updated_at": "2014-09-13T17:17:00Z",
+        "closed_at": "2014-09-13T17:17:00Z",
+        "body": "This assignment is proving to be very error prone already for me. I have been trying to work through my Twitter authentication for an hour now with nothing but errors. Here is the situation:\r\n\r\nI am following Ierne up until 6:20 in the video when he pastes the 32 character \"nonce\" value into Twitter. This situation does not fix my error code. I have error code 215 \"Bad Authentication Data\". In the video Postman highlights his \"nonce\" value to show that is where the error lies, but I am not getting any fields highlighted for assistance by postman.\r\n\r\nI followed his actions up until this point, so my newly regenerated keys have proper read and write access and I am attempting to use the \"nonce\" value from the video of \"ABCDEFGHIJKLMNOPQRSTUVWXYZ123456\" which is 32 characters. Need some more pointers please.\r\n\r\n![image](http://i.imgur.com/wiErMtx.png)\r\n![image](http://i.imgur.com/iuoC9L8.png)"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T17:17:00Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2286603524",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/12/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/12",
+        "id": 42700538,
+        "number": 12,
+        "title": "Bad Authentication Data",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-13T17:04:54Z",
+        "updated_at": "2014-09-13T17:04:54Z",
+        "closed_at": null,
+        "body": "This assignment is proving to be very error prone already for me. I have been trying to work through my Twitter authentication for an hour now with nothing but errors. Here is the situation:\r\n\r\nI am following Ierne up until 6:20 in the video when he pastes the 32 character \"nonce\" value into Twitter. This situation does not fix my error code. I have error code 215 \"Bad Authentication Data\". In the video Postman highlights his \"nonce\" value to show that is where the error lies, but I am not getting any fields highlighted for assistance by postman.\r\n\r\nI followed his actions up until this point, so my newly regenerated keys have proper read and write access and I am attempting to use the \"nonce\" value from the video of \"ABCDEFGHIJKLMNOPQRSTUVWXYZ123456\" which is 32 characters. Need some more pointers please.\r\n\r\n![image](http://i.imgur.com/wiErMtx.png)\r\n![image](http://i.imgur.com/iuoC9L8.png)"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-13T17:04:57Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2284023349",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10",
+        "labels_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/labels{/name}",
+        "comments_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/comments",
+        "events_url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3/issues/10/events",
+        "html_url": "https://github.com/CSCI-4830-002-2014/challenge-week-3/issues/10",
+        "id": 42585116,
+        "number": 10,
+        "title": "No Twitter Account",
+        "user": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2014-09-12T00:22:02Z",
+        "updated_at": "2014-09-12T00:22:02Z",
+        "closed_at": null,
+        "body": "I don't have a Twitter account, and after seeing the first few minutes of the tutorial, it looks like I need to make one. Is this the case?"
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T00:22:02Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2284022038",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23940540,
+      "name": "dawsonbotsford/challenge-week-3",
+      "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3"
+    },
+    "payload": {
+      "push_id": 449708149,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "180a1fbabc16c017d7101c64ae35343c49c5389f",
+      "before": "295e66f3d864347d7c84ca594c5e5a1e4efcc033",
+      "commits": [
+        {
+          "sha": "180a1fbabc16c017d7101c64ae35343c49c5389f",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "Dawson Botsford"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/commits/180a1fbabc16c017d7101c64ae35343c49c5389f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-12T00:20:56Z"
+  },
+  {
+    "id": "2284013337",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23832523,
+      "name": "CSCI-4830-002-2014/challenge-week-3",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-3"
+    },
+    "payload": {
+      "forkee": {
+        "id": 23940540,
+        "name": "challenge-week-3",
+        "full_name": "dawsonbotsford/challenge-week-3",
+        "owner": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/dawsonbotsford/challenge-week-3",
+        "description": "",
+        "fork": true,
+        "url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3",
+        "forks_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/forks",
+        "keys_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/teams",
+        "hooks_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/hooks",
+        "issue_events_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/events",
+        "assignees_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/tags",
+        "blobs_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/languages",
+        "stargazers_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/stargazers",
+        "contributors_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/contributors",
+        "subscribers_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/subscribers",
+        "subscription_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/subscription",
+        "commits_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/issues/comments/{number}",
+        "contents_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/merges",
+        "archive_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/downloads",
+        "issues_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/labels{/name}",
+        "releases_url": "https://api.github.com/repos/dawsonbotsford/challenge-week-3/releases{/id}",
+        "created_at": "2014-09-12T00:13:30Z",
+        "updated_at": "2014-09-09T12:29:43Z",
+        "pushed_at": "2014-09-11T15:43:24Z",
+        "git_url": "git://github.com/dawsonbotsford/challenge-week-3.git",
+        "ssh_url": "git@github.com:dawsonbotsford/challenge-week-3.git",
+        "clone_url": "https://github.com/dawsonbotsford/challenge-week-3.git",
+        "svn_url": "https://github.com/dawsonbotsford/challenge-week-3",
+        "homepage": null,
+        "size": 0,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_downloads": true,
+        "has_wiki": true,
+        "forks_count": 0,
+        "mirror_url": null,
+        "open_issues_count": 0,
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "master",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T00:13:30Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2284004769",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23940373,
+      "name": "dawsonbotsford/project-1-make-a",
+      "url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a"
+    },
+    "payload": {
+      "push_id": 449700747,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "e1cc5191805716f6570818379390dde561bc676c",
+      "before": "a28234526547e23765c02d91e8106053e06816e4",
+      "commits": [
+        {
+          "sha": "e1cc5191805716f6570818379390dde561bc676c",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "Dawson Botsford"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/commits/e1cc5191805716f6570818379390dde561bc676c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-12T00:06:27Z"
+  },
+  {
+    "id": "2284004125",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23597603,
+      "name": "CSCI-4830-002-2014/project-1-make-a",
+      "url": "https://api.github.com/repos/CSCI-4830-002-2014/project-1-make-a"
+    },
+    "payload": {
+      "forkee": {
+        "id": 23940373,
+        "name": "project-1-make-a",
+        "full_name": "dawsonbotsford/project-1-make-a",
+        "owner": {
+          "login": "dawsonbotsford",
+          "id": 3408480,
+          "avatar_url": "https://avatars.githubusercontent.com/u/3408480?v=2",
+          "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+          "url": "https://api.github.com/users/dawsonbotsford",
+          "html_url": "https://github.com/dawsonbotsford",
+          "followers_url": "https://api.github.com/users/dawsonbotsford/followers",
+          "following_url": "https://api.github.com/users/dawsonbotsford/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dawsonbotsford/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dawsonbotsford/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dawsonbotsford/subscriptions",
+          "organizations_url": "https://api.github.com/users/dawsonbotsford/orgs",
+          "repos_url": "https://api.github.com/users/dawsonbotsford/repos",
+          "events_url": "https://api.github.com/users/dawsonbotsford/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dawsonbotsford/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/dawsonbotsford/project-1-make-a",
+        "description": "",
+        "fork": true,
+        "url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a",
+        "forks_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/forks",
+        "keys_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/teams",
+        "hooks_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/hooks",
+        "issue_events_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/events",
+        "assignees_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/tags",
+        "blobs_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/languages",
+        "stargazers_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/stargazers",
+        "contributors_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/contributors",
+        "subscribers_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/subscribers",
+        "subscription_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/subscription",
+        "commits_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/issues/comments/{number}",
+        "contents_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/merges",
+        "archive_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/downloads",
+        "issues_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/labels{/name}",
+        "releases_url": "https://api.github.com/repos/dawsonbotsford/project-1-make-a/releases{/id}",
+        "created_at": "2014-09-12T00:05:54Z",
+        "updated_at": "2014-09-03T17:36:40Z",
+        "pushed_at": "2014-09-07T22:10:07Z",
+        "git_url": "git://github.com/dawsonbotsford/project-1-make-a.git",
+        "ssh_url": "git@github.com:dawsonbotsford/project-1-make-a.git",
+        "clone_url": "https://github.com/dawsonbotsford/project-1-make-a.git",
+        "svn_url": "https://github.com/dawsonbotsford/project-1-make-a",
+        "homepage": null,
+        "size": 135,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_downloads": true,
+        "has_wiki": true,
+        "forks_count": 0,
+        "mirror_url": null,
+        "open_issues_count": 0,
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "master",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2014-09-12T00:05:56Z",
+    "org": {
+      "id": 8374562,
+      "login": "CSCI-4830-002-2014",
+      "gravatar_id": null,
+      "url": "https://api.github.com/orgs/CSCI-4830-002-2014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374562?"
+    }
+  },
+  {
+    "id": "2281601210",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab3",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab3"
+    },
+    "payload": {
+      "push_id": 448676889,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7727e95c89faae195463677daf0c8aecf0fa2017",
+      "before": "5161ddbe346b4ae0a230f200c06af0b7fa360549",
+      "commits": [
+        {
+          "sha": "7727e95c89faae195463677daf0c8aecf0fa2017",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "Dawson Botsford"
+          },
+          "message": "Format changes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab3/commits/7727e95c89faae195463677daf0c8aecf0fa2017"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:44:07Z"
+  },
+  {
+    "id": "2281598034",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab3",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab3"
+    },
+    "payload": {
+      "push_id": 448675555,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "5161ddbe346b4ae0a230f200c06af0b7fa360549",
+      "before": "c70d7d1e6c5351f6c89aca0a66b97865a13f3c49",
+      "commits": [
+        {
+          "sha": "5161ddbe346b4ae0a230f200c06af0b7fa360549",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "Dawson Botsford"
+          },
+          "message": "name change",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab3/commits/5161ddbe346b4ae0a230f200c06af0b7fa360549"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:41:58Z"
+  },
+  {
+    "id": "2281596517",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "push_id": 448674902,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "c70d7d1e6c5351f6c89aca0a66b97865a13f3c49",
+      "before": "b8d0637ba0ee520c4caf2022000f18524f8e6dfe",
+      "commits": [
+        {
+          "sha": "7014169d25f13391fc2ff694ae129e4961736c64",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "Trying to make some conflict",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/7014169d25f13391fc2ff694ae129e4961736c64"
+        },
+        {
+          "sha": "c70d7d1e6c5351f6c89aca0a66b97865a13f3c49",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "Conflict resolved",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/c70d7d1e6c5351f6c89aca0a66b97865a13f3c49"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:40:57Z"
+  },
+  {
+    "id": "2281590825",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "push_id": 448672587,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7ec30a7f8081d4b857035951d944ad31b6408cc8",
+      "before": "7b6c6bb6d1a698ae0e7d5f80d843f4e10b4ad721",
+      "commits": [
+        {
+          "sha": "7ec30a7f8081d4b857035951d944ad31b6408cc8",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "Make a conflict",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/7ec30a7f8081d4b857035951d944ad31b6408cc8"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:37:13Z"
+  },
+  {
+    "id": "2281579358",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23892638,
+      "name": "adrian-chen/3308Lab3",
+      "url": "https://api.github.com/repos/adrian-chen/3308Lab3"
+    },
+    "payload": {
+      "push_id": 448667838,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "ef7f2d732e803d337855da91b8207701a645ee42",
+      "before": "5d4df04a60baa0325717477bc157d07b3cf2dc69",
+      "commits": [
+        {
+          "sha": "ef7f2d732e803d337855da91b8207701a645ee42",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "I want to collab yo",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adrian-chen/3308Lab3/commits/ef7f2d732e803d337855da91b8207701a645ee42"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:30:19Z"
+  },
+  {
+    "id": "2281573871",
+    "type": "MemberEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "member": {
+        "login": "BrianNewsom",
+        "id": 3268911,
+        "avatar_url": "https://avatars.githubusercontent.com/u/3268911?v=2",
+        "gravatar_id": "10cb3b420966fe936877535b803cf142",
+        "url": "https://api.github.com/users/BrianNewsom",
+        "html_url": "https://github.com/BrianNewsom",
+        "followers_url": "https://api.github.com/users/BrianNewsom/followers",
+        "following_url": "https://api.github.com/users/BrianNewsom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/BrianNewsom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/BrianNewsom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/BrianNewsom/subscriptions",
+        "organizations_url": "https://api.github.com/users/BrianNewsom/orgs",
+        "repos_url": "https://api.github.com/users/BrianNewsom/repos",
+        "events_url": "https://api.github.com/users/BrianNewsom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/BrianNewsom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "action": "added"
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:26:59Z"
+  },
+  {
+    "id": "2281573650",
+    "type": "MemberEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "member": {
+        "login": "adrian-chen",
+        "id": 8551273,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8551273?v=2",
+        "gravatar_id": "ed3d513700101a554a82369fc8cdc971",
+        "url": "https://api.github.com/users/adrian-chen",
+        "html_url": "https://github.com/adrian-chen",
+        "followers_url": "https://api.github.com/users/adrian-chen/followers",
+        "following_url": "https://api.github.com/users/adrian-chen/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adrian-chen/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adrian-chen/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adrian-chen/subscriptions",
+        "organizations_url": "https://api.github.com/users/adrian-chen/orgs",
+        "repos_url": "https://api.github.com/users/adrian-chen/repos",
+        "events_url": "https://api.github.com/users/adrian-chen/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adrian-chen/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "action": "added"
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:26:54Z"
+  },
+  {
+    "id": "2281572855",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "ref": "Testing_New_Files",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:26:23Z"
+  },
+  {
+    "id": "2281572850",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "push_id": 448665178,
+      "size": 3,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "89c10ed92c06ecbc5ea50434d41affb948b3a80e",
+      "before": "fc56a1e72a1d0444ef318fd4ca3946053ff7313c",
+      "commits": [
+        {
+          "sha": "6267f1bba8acfece1c8626824a8528b72f8ef4d2",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "Branch junk initial commit",
+          "distinct": false,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/6267f1bba8acfece1c8626824a8528b72f8ef4d2"
+        },
+        {
+          "sha": "105a37af733d03ea09abd444a99721837cec84ef",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "This is a commit",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/105a37af733d03ea09abd444a99721837cec84ef"
+        },
+        {
+          "sha": "89c10ed92c06ecbc5ea50434d41affb948b3a80e",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "Merge branch 'Testing_New_Files'",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/89c10ed92c06ecbc5ea50434d41affb948b3a80e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:26:22Z"
+  },
+  {
+    "id": "2281564572",
+    "type": "PushEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "push_id": 448661636,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "fc56a1e72a1d0444ef318fd4ca3946053ff7313c",
+      "before": "cc7d57df4b823bd45615cc24db1a1fc73a3e504e",
+      "commits": [
+        {
+          "sha": "788260190b37cb6490a3ad3eb46fe8726873d28f",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "Initial commit",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/788260190b37cb6490a3ad3eb46fe8726873d28f"
+        },
+        {
+          "sha": "fc56a1e72a1d0444ef318fd4ca3946053ff7313c",
+          "author": {
+            "email": "dawsonbotsford@gmail.com",
+            "name": "dawsonbotsford"
+          },
+          "message": "first time adding junk!",
+          "distinct": true,
+          "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2/commits/fc56a1e72a1d0444ef318fd4ca3946053ff7313c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:21:19Z"
+  },
+  {
+    "id": "2281564201",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 3408480,
+      "login": "dawsonbotsford",
+      "gravatar_id": "5f66f56cae930eb9ab2cd9e62b8285e6",
+      "url": "https://api.github.com/users/dawsonbotsford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3408480?"
+    },
+    "repo": {
+      "id": 23894552,
+      "name": "dawsonbotsford/my3308lab2",
+      "url": "https://api.github.com/repos/dawsonbotsford/my3308lab2"
+    },
+    "payload": {
+      "ref": "v1.0",
+      "ref_type": "tag",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2014-09-10T22:21:05Z"
+  }
+]

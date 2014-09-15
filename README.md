@@ -86,50 +86,50 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+Set timestamp to created_at
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/9g08Ldj.png)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="dawsonbotsford_events" 
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/8IdkRZ6.png)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="dawsonbotsford_events" | stats count by type
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ABhdI8v.png)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="dawsonbotsford_events" | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/xioUTcR.png)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+![image](http://i.imgur.com/VcpL5Mk.png)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/w9ECuZl.png)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="idontgitit" type="PullRequestEvent" | top actor.login
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/KesPDB1.png)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="idontgitit" type="PullRequestEvent" | stats count by payload.action
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/32cqa6x.png)
 
 ### Challenge 2-e (4 points)
 ```
