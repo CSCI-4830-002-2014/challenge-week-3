@@ -4,17 +4,17 @@ Logan Bates
 
 # How many points have you earned?
 
-56/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[title-of-the-article](http://www.pbs.org/idealab/2014/09/localizing-the-nyt-data-visualization-on-race-gap-for-police-in-nc/)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -92,7 +92,7 @@ sourcetype=[??] [fill-in-the-rest]
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=LoganBates_event
 ```
 ![image](challenge1b.png?raw=true)
 
