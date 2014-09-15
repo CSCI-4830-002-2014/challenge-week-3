@@ -1,20 +1,22 @@
-# Name
+Challenge Week 3
+================
+
+## Name
 
 Ian Ker-Seymer
 
-# How many points have you earned?
+## How many points have you earned?
 
-0/100
+100/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+## How many hours have you spent on this?
 
-# How many hours have you spent on this?
+3
 
-fill-in-your-answer
-
-# Show and tell (4 points)
+## Show and tell (4 points)
 
 [What Big Data Can Mean for Sustainability](http://knowledge.wharton.upenn.edu/article/what-big-data-means-for-sustainability/)
+
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -52,13 +54,14 @@ fill-in-your-answer
 
 ![image](https://www.dropbox.com/s/1taxxhgwhxelv9b/Screenshot%202014-09-14%2016.56.15.png?dl=1)
 
+
 ## Challenges
 
 ### 1 (4 points)
 
 ![image](https://www.dropbox.com/s/yjqfnfkom79ftvb/Screenshot%202014-09-14%2017.07.00.png?dl=1)
 
-Note: used Ruby REPL
+Note: used Ruby REPL. [pry](https://github.com/pry/pry) ftw.
 
 ```
 require 'json'
