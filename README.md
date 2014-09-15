@@ -8,7 +8,7 @@ Irfan Nadiadi
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3
 
 # Show and tell (4 points)
 
