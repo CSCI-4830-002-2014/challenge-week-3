@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Daniel Nolan
 
 # How many points have you earned?
 
@@ -10,11 +10,11 @@ write-your-name
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+Way too many hours
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[Coyote Drones](http://bigstory.ap.org/article/scientists-drop-research-drones-hurricanes)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -22,11 +22,11 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/5gM90Zl.png)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/qWmJfrb.png)
 
 ### Checkpoint 3 (4 points)
 
