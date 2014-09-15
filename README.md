@@ -130,60 +130,79 @@ JSON.parse open("https://api.github.com/repos/indiesquidge/hackathon-accesslog/s
 ## Challenge 1
 
 ### Challenge 1-a (4 points)
-```
-sourcetype=[??] [fill-in-the-rest]
-```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/hibmpdibqmb4bs6/Screenshot%202014-09-14%2020.45.09.png?dl=1)
 
 ### Challenge 1-b (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="ianks_events"
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/uu5v90wuut3b8if/Screenshot%202014-09-14%2020.59.09.png?dl=1)
 
 ### Challenge 1-c (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="ianks_events" | stats count by type
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/dwfevz2403h2m3t/Screenshot%202014-09-14%2021.01.16.png?dl=1)
 
 ### Challenge 1-d (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="ianks_events" | timechart count by type
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/j3wo1sv3ny1c9o0/Screenshot%202014-09-14%2021.03.45.png?dl=1)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+
+```
+sourcetype="course_github_events" type=PushEvent | stats count by actor.login
+```
+
+![image](https://www.dropbox.com/s/riqyorv0nwu4rsm/Screenshot%202014-09-14%2021.14.30.png?dl=1)
 
 ### Challenge 2-b (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" | timechart count by type
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/aml1ueoxd1bijdh/Screenshot%202014-09-14%2021.18.37.png?dl=1)
 
 ### Challenge 2-c (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" | top actor.login
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/ejt3mbbleqt90pk/Screenshot%202014-09-14%2021.20.57.png?dl=1)
 
 ### Challenge 2-d (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" | stats count by payload.action
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/xrix7wlooz5hzvm/Screenshot%202014-09-14%2021.23.07.png?dl=1)
 
 ### Challenge 2-e (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" | stats count(payload.action) by actor.login
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/y5i5a9beakbnwim/Screenshot%202014-09-14%2021.24.21.png?dl=1)
 
 ### Challenge 2-f (4 points)
+
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="course_github_events" type="PullRequestEvent" repo.name="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
-![image](image.png?raw=true)
+
+![image](https://www.dropbox.com/s/lygz713rz03qodv/Screenshot%202014-09-14%2021.27.04.png?dl=1)
