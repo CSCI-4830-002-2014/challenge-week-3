@@ -86,59 +86,59 @@ Way too many hours
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=dano8957_events
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/uB7FqiV.png)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="dano8957_events" [listed mine under GITHUB initially here]
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/toTVZv0.png)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=GITHUB | stats count by type [should be dano_8957, couldn't get it to work that way]
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/ZBpvRYM.png)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=GITHUB | timechart count by type [same as above with dano8957 topic]
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/ImMBUpx.png)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+![image](http://imgur.com/XVfIkE2.png)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype= course_github_events | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/jRK0r52.png)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype= course_github_events type="PullRequestEvent" | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/jRK0r52.png)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" | stats count by payload.action
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/yKkIjvK.png)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" payload.action = "opened"| stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/U8mk8is.png)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" | timechart span=6h count
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/lpGodcb.png)
