@@ -4,13 +4,13 @@ Dawson Botsford
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+9
 
 # Show and tell (4 points)
 
@@ -133,12 +133,12 @@ sourcetype="idontgitit" type="PullRequestEvent" | stats count by payload.action
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="idontgitit" type="PullRequestEvent" payload.action = opened | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/NUmiurK.png)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="idontgitit" type="PullRequestEvent" "repo.name"="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
-![image](image.png?raw=true)
+![image](http://i.imgur.com/xlkxkj3.png)
