@@ -12,7 +12,7 @@ Marc Simpson
 
 20 hours. None of my videos were pulling up on chrome and this was a massive struggle and my screenshot function on my laptop needed to be replaced. So unfortunately my grade won't be as good on this one. I will have to make up for it on future challenges.
 
-# Show and tell (4 points)
+# Show and tell (4 point)
 
 [Over the Decades, How States Have Shifted](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?_r=0)
 
