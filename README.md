@@ -4,13 +4,12 @@ Alexia Newgord
 
 # How many points have you earned?
 
-0/100
+97/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+appx. 9.5 hours
 
 # Show and tell (4 points)
 
@@ -86,59 +85,62 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+
 ```
-![image](image.png?raw=true)
+![image](c1-a.png?raw=true)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+tag=alne4294_events 
 ```
-![image](image.png?raw=true)
+![image](c1-b.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=github_events | stats by type
 ```
-![image](image.png?raw=true)
+![image](c1-c.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=github_events | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](c1-d.png?raw=true)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+```
+sourcetype=course_github_events type=PushEvent | chart count by actor.login
+```
+![image](c2-a.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](c2-b.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](c2-c.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | stats count by payload.action
 ```
-![image](image.png?raw=true)
+![image](c2-d.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | chart count by actor.login
 ```
-![image](image.png?raw=true)
+![image](c2-e.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent repo.url=*challenge-week-2 | timechart count
 ```
-![image](image.png?raw=true)
+![image](c2-f.png?raw=true)
