@@ -14,7 +14,7 @@ Logan Bates
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://www.pbs.org/idealab/2014/09/localizing-the-nyt-data-visualization-on-race-gap-for-police-in-nc/)
+[Localizing the NYT Data Visualization on Race Gap for Police in NC](http://www.pbs.org/idealab/2014/09/localizing-the-nyt-data-visualization-on-race-gap-for-police-in-nc/)
 
 # API (I) (4 points x 14 = 56 points)
 
