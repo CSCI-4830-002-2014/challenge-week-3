@@ -10,7 +10,7 @@ Joshua Ferge
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4.5
 
 # Show and tell (4 points)
 
