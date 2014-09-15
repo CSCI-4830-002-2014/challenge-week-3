@@ -6,8 +6,6 @@ Irfan Nadiadi
 
 100/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
-
 # How many hours have you spent on this?
 
 fill-in-your-answer
@@ -34,7 +32,7 @@ fill-in-your-answer
 
 ### Checkpoint 4 (4 points)
 
-![image](Check\ 4.png)
+![image](Check 4.png)
 
 ### Checkpoint 5 (4 points)
 
