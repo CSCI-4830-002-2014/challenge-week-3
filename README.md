@@ -92,53 +92,56 @@ sourcetype=[??] [fill-in-the-rest]
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=irfann1_events
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=irfann1_events | stats count by type
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=irfann1_events | timechart count by type
 ```
 ![image](image.png?raw=true)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
+```
+sourcetype=course_github_events type=PushEvent | stats count by actor.login | sort -num(count)
+```
 ![image](image.png?raw=true)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events | timechart count by type
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | top actor.login
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | stats count by payload.action
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent | stats count by actor.login
 ```
 ![image](image.png?raw=true)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=course_github_events type=PullRequestEvent repo.name="CSCI-4830-002-2014/challenge-week-2" | timechart count
 ```
 ![image](image.png?raw=true)
