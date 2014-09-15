@@ -117,7 +117,7 @@ sourcetype=develra_event | timechart count by type
 ```
 sourcetype = course_github_events | timechart count by type
 ```
-![image](https://www.dropbox.com/s/6aljvfdncg4puiw/Screenshot%202014-09-15%2000.43.27.png)
+![image](https://www.dropbox.com/s/6aljvfdncg4puiw/Screenshot%202014-09-15%2000.43.27.png?dl=1)
 
 ### Challenge 2-c (4 points)
 ```
