@@ -4,13 +4,13 @@ Daniel Nolan
 
 # How many points have you earned?
 
-0/100
+52/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-Way too many hours
+More than 10 hours, had issues trying to run Node JS and couldn't get other sites to work on my laptop
 
 # Show and tell (4 points)
 
