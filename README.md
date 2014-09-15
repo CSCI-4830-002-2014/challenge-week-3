@@ -9,7 +9,7 @@ Alexia Newgord
 
 # How many hours have you spent on this?
 
-appx. 9.5 hours
+appx. 9 hours (had some network configuration issues on my machine)
 
 # Show and tell (4 points)
 
