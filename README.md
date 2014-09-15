@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Logan Bates
 
 # How many points have you earned?
 
-0/100
+56/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -22,61 +22,61 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1.png?raw=true)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint2.png?raw=true)
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint4.png?raw=true)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint5.png?raw=true)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint6.png?raw=true)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint7.png?raw=true)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint8.png?raw=true)
 
 ## Challenges
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge6.png?raw=true)
 
 
 
