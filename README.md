@@ -54,28 +54,27 @@ Too many; I've lost count. This week was a bit much with the API and Splunk AND 
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![challenge 1](images/api_ch1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![challenge 2](images/api_ch2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![challenge 3](images/api_ch3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![challenge 4](images/api_ch4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![challenge 5](images/api_ch5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
-
+![challenge 6](images/api_ch6.png?raw=true)
 
 
 # Splunk (III) (4 points x 10 = 40 points)
