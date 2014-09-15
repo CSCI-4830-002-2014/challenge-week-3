@@ -104,41 +104,41 @@ sourcetype=json_github |stats count by type
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=develra_event | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/cyuth782lwqwp7j/Screenshot%202014-09-15%2000.33.52.png)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/qzre01n8f3tymo5/Screenshot%202014-09-15%2000.42.18.png?dl=1)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events | timechart count by type
 ```
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/6aljvfdncg4puiw/Screenshot%202014-09-15%2000.43.27.png)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent"| stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/1eub4qitmiexzan/Screenshot%202014-09-15%2000.45.56.png?)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent"| stats count by payload.action
 ```
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/v0bd3awrh27mie5/Screenshot%202014-09-15%2000.47.14.png?dl=0)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" payload.action="opened"| stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/5by48dly8sew8p7/Screenshot%202014-09-15%2000.48.20.png?dl=0)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" | timechart span=6h count
 ```
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/wcrrwb4ekd0ttnh/Screenshot%202014-09-15%2000.52.26.png)
