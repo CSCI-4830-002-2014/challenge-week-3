@@ -1,20 +1,20 @@
 # Name
 
-write-your-name
+Jake White
 
 # How many points have you earned?
 
-0/100
+28/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+5
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[The 12 States of America](http://www.theatlantic.com/misc/the-12-states-of-america/)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -22,23 +22,23 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/8a8R9Bx.png)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/a1Yqt4M.png)
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/FiINNPX.png)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/KwXBtBq.png)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/NjE9FHO.png)
 
 ### Checkpoint 6 (4 points)
 
@@ -56,7 +56,7 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/7t4z73M.png)
 
 ### 2 (4 points)
 
