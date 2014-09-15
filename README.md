@@ -94,7 +94,7 @@ created_at
 ```
 sourcetype=[develra_events] [I changed it to json_github]
 ```
-![image](ihttps://www.dropbox.com/s/crn0iz4ceoc39z6/Screenshot%202014-09-14%2023.36.10.png)
+![image](http://www.dropbox.com/s/crn0iz4ceoc39z6/Screenshot%202014-09-14%2023.36.10.png)
 
 ### Challenge 1-c (4 points)
 ```
