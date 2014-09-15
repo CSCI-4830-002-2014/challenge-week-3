@@ -30,53 +30,53 @@ fill-in-your-answer
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](cp3.png?raw=true)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](cp4.png?raw=true)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](cp5.png?raw=true)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](cp6.png?raw=true)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](cp7.png?raw=true)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](cp8.png?raw=true)
 
 ## Challenges
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](c1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](c2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](c3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](c4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](c5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](c6.png?raw=true)
 
 
 
