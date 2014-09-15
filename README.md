@@ -22,7 +22,7 @@ Michael Aaron
 
 ### Checkpoint 1 (4 points)
 
-![image](https://www.dropbox.com/s/vh9n6fbm4pp0948/Screenshot%202014-09-14%2021.42.33.png?d1=1)
+![image](https://www.dropbox.com/s/vh9n6fbm4pp0948/Screenshot 2014-09-14 21.42.33.png)
 
 ### Checkpoint 2 (4 points)
 
