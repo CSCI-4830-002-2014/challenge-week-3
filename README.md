@@ -10,7 +10,7 @@ Dawson Botsford
 
 # How many hours have you spent on this?
 
-9
+11
 
 # Show and tell (4 points)
 
@@ -26,7 +26,7 @@ Dawson Botsford
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/WRtz7bH.png)
 
 ### Checkpoint 3 (4 points)
 
