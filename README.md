@@ -30,27 +30,27 @@ More than 10 hours, had issues trying to run Node JS and couldn't get other site
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/EBRwOhD.png)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/8anziYH.png)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/DDSZwf1.png)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/dVtDrvm.png)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/F8OxJW1.png)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/C4PVpAi.png)
 
 ## Challenges
 
