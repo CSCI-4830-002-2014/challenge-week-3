@@ -1,20 +1,20 @@
 # Name
 
-write-your-name
+Daniel Nolan
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+More than 10 hours, had issues trying to run Node JS and couldn't get other sites to work on my laptop
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+[Coyote Drones](http://bigstory.ap.org/article/scientists-drop-research-drones-hurricanes)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -22,61 +22,61 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/5gM90Zl.png)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/qWmJfrb.png)
 
 ### Checkpoint 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/EBRwOhD.png)
 
 ### Checkpoint 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/8anziYH.png)
 
 ### Checkpoint 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/DDSZwf1.png)
 
 ### Checkpoint 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/dVtDrvm.png)
 
 ### Checkpoint 7 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/F8OxJW1.png)
 
 ### Checkpoint 8 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/C4PVpAi.png)
 
 ## Challenges
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/UyYSht4.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/uYLDz3N.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/6PAK7Hp.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/9PTG421.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/veVJmxc.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/EWMrVfJ.png)
 
 
 
@@ -86,59 +86,61 @@ fill-in-your-answer
 
 ### Challenge 1-a (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=dano8957_events
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/uB7FqiV.png)
 
 ### Challenge 1-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype="dano8957_events" [listed mine under GITHUB initially here]
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/toTVZv0.png)
 
 ### Challenge 1-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=GITHUB | stats count by type [should be dano_8957, couldn't get it to work that way]
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/ZBpvRYM.png)
 
 ### Challenge 1-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype=GITHUB | timechart count by type [same as above with dano8957 topic]
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/ImMBUpx.png)
 
 ## Challenge 2
 
 ### Challenge 2-a (4 points)
-![image](image.png?raw=true)
+![image](http://imgur.com/XVfIkE2.png)
 
 ### Challenge 2-b (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype= course_github_events | timechart count by type
 ```
-![image](image.png?raw=true)
+Could not get the timechart to work even after I loaded my json file with and without a timestamp setting.
+![image](http://imgur.com/jRK0r52.png)
 
 ### Challenge 2-c (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype= course_github_events type="PullRequestEvent" | stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/jRK0r52.png)
 
 ### Challenge 2-d (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" | stats count by payload.action
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/yKkIjvK.png)
 
 ### Challenge 2-e (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" payload.action = "opened"| stats count by actor.login
 ```
-![image](image.png?raw=true)
+![image](http://imgur.com/U8mk8is.png)
 
 ### Challenge 2-f (4 points)
 ```
-sourcetype=[??] [fill-in-the-rest]
+sourcetype = course_github_events type="PullRequestEvent" | timechart span=6h count
 ```
-![image](image.png?raw=true)
+Could not get the timechart to work even after I loaded my json file with and without a timestamp setting.
+![image](http://imgur.com/lpGodcb.png)
