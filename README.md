@@ -4,7 +4,7 @@ Daniel Nolan
 
 # How many points have you earned?
 
-76/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -117,6 +117,7 @@ sourcetype=GITHUB | timechart count by type [same as above with dano8957 topic]
 ```
 sourcetype= course_github_events | timechart count by type
 ```
+Could not get the timechart to work even after I loaded my json file with and without a timestamp setting.
 ![image](http://imgur.com/jRK0r52.png)
 
 ### Challenge 2-c (4 points)
@@ -141,4 +142,5 @@ sourcetype = course_github_events type="PullRequestEvent" payload.action = "open
 ```
 sourcetype = course_github_events type="PullRequestEvent" | timechart span=6h count
 ```
+Could not get the timechart to work even after I loaded my json file with and without a timestamp setting.
 ![image](http://imgur.com/lpGodcb.png)
