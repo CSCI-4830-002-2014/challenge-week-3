@@ -56,27 +56,27 @@ More than 10 hours, had issues trying to run Node JS and couldn't get other site
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/UyYSht4.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/uYLDz3N.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/6PAK7Hp.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/9PTG421.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/veVJmxc.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/EWMrVfJ.png)
 
 
 
