@@ -1,12 +1,10 @@
 # Name
 
-write-your-name
+Nikita Voskoboynik
 
 # How many points have you earned?
 
 0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
@@ -14,7 +12,7 @@ fill-in-your-answer
 
 # Show and tell (4 points)
 
-[title-of-the-article](http://link-to-an-interesting-data-visualization-about-politics)
+9/11 Anniversary Speeches: What Text Analysis Tells Us (http://www.realclearpolitics.com/articles/2014/09/10/911_anniversary_speeches_what_text_analysis_tells_us_123913.html)
 
 # API (I) (4 points x 14 = 56 points)
 
@@ -22,11 +20,11 @@ fill-in-your-answer
 
 ### Checkpoint 1 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/ANoskb5.png)
 
 ### Checkpoint 2 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/kVUFyr8.png)
 
 ### Checkpoint 3 (4 points)
 
